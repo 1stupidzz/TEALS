@@ -1,15 +1,8 @@
-# TEALS
+# TEALS2 - Level 1 heading
 
-This is my repo for **Introduction to Software Techonlogies**!
+This is my repo for **Introduction to Software Techonlogies** class at *Towers High School[*] Links are easy to make - the high school can be found [here] (https://www.towershs.dekalb.k12.ga.us/).
 
-## second level header 
+![The Towers High School and Dekalb County schools logos] (https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)
 
-Three things that we will talk more about here are:
-1.the parts of git
-2.markdown for READMEs and wilkis 
-3. styling with themes using HTML and CSS
 
-### third level header 
-
-<H1>HTML level 1 Header </H1>
-
+qaaa''s
